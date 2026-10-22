@@ -1,0 +1,12 @@
+# Pastas de sessão e login do WhatsApp
+sessao_whatsapp/
+whatsapp_session/
+__pycache__/
+
+# Listas em CSV
+*.csv
+
+# Ambientes e arquivos temporários
+venv/
+env/
+.vscode/
